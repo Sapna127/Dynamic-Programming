@@ -3,7 +3,7 @@ Dynamic Programming :rocket:
 </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91309280/182393754-3a65bceb-377c-4e66-a07e-359a563e4e86.gif" height="500" width="700" align="center"/>
+<img src="https://user-images.githubusercontent.com/91309280/182393754-3a65bceb-377c-4e66-a07e-359a563e4e86.gif" height="480" width="700" align="center"/>
 </p>
 
 ## What the hell is DP?
