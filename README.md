@@ -49,7 +49,7 @@ Auxillary stack space is really enemy in memoization code. 😢
 Always remember that tabulation is bottom up so start and end the loop accordingly. 
 
 ```
-Thumb rule - There’s always a space optimization if n-1 and n-2 is there. e.g. climbing stairs, frog jump 
+Thumb rule - There’s always a space optimization if n-1 and n-2 is there. 
 ```
 
 ### Tabulation → space optimization 
