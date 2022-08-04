@@ -39,3 +39,5 @@ int minCost(int n, vector<int>& cuts) {
         }
         return dp[1][s];
     }
+//TC O(s^3)
+//SC O(s^s)
