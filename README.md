@@ -70,3 +70,6 @@ Thumb rule - There’s always a space optimization if n-1 and n-2 is there.
 🎥 Strivers DP Series - https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
 
 🎥 Aditya Verma DP Series - https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+
+# Study Material
+📑 https://www.linkedin.com/posts/mayank-singh-1004981a4_dp-patterns-part-1-ugcPost-6965505836316004353-7hxg?utm_source=linkedin_share&utm_medium=member_desktop_web
